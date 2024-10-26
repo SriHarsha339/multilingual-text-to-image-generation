@@ -28,36 +28,49 @@ This project uses advanced AI tools to:
 
 Clone the repository:
 
+```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+```
+
 Install the dependencies:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
+
 Set up your API keys:
 
-Google Translate API
-Hugging Face API Key (for Stable Diffusion)
+- Google Translate API
+- Hugging Face API Key (for Stable Diffusion)
+
 Run the application:
 
-bash
-Copy code
+```bash
 python app.py
-Access the app at http://localhost:5000.
+```
 
-🖥️ Usage
-Enter a Text Prompt: Type your desired description into the input field.
-Select Language: Choose a language or leave it as English.
-Generate Images: Click Generate Images to see your text come to life!
-🎯 Future Improvements
-Enhanced image customization options (e.g., styles, sizes).
-Expanded language model integration for more nuanced text understanding.
-Options for users to save images in various formats and resolutions.
-📄 License
+Access the app at [http://localhost:5000](http://localhost:5000).
+
+## 🖥️ Usage
+
+1. **Enter a Text Prompt**: Type your desired description into the input field.
+2. **Select Language**: Choose a language or leave it as English.
+3. **Generate Images**: Click Generate Images to see your text come to life!
+
+## 🎯 Future Improvements
+
+- Enhanced image customization options (e.g., styles, sizes).
+- Expanded language model integration for more nuanced text understanding.
+- Options for users to save images in various formats and resolutions.
+
+## 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-❤️ Contributions
+## ❤️ Contributions
+
 Contributions are welcome! Feel free to submit pull requests or open issues to help improve this project.
 
 Thank you for exploring our project! Enjoy creating stunning visuals from text with ease. 😊
+
