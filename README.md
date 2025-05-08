@@ -1,4 +1,3 @@
-Below is a complete, professional `README.md` file for your project. Simply copy the following text into your repository’s `README.md` file:
 
 ---
 
